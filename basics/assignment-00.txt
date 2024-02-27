@@ -1,1 +1,8 @@
-assignment-00
+Create a new Java program named StudentAssignment.
+Implement the following functionalities:
+Declare and initialize variables for a student's name, age, and grade.
+Print a welcome message to the student.
+Print the student's birth year.
+Print the average grade.
+Print the student's average grade.
+Test your program by providing sample values for the student's name, age, and grades.

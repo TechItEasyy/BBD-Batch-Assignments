@@ -1,0 +1,10 @@
+1. Create a Java program that declares variables of different data types (e.g., int, double, float, long, short).
+   Perform explicit casting to convert variables of one data type to another.
+   Print the values of variables before and after casting to observe the differences.
+
+2. Create a Java program to calculate Simple Interest.
+  Declare variables to store principal amount, rate of interest, and time period.
+  Calculate the Simple Interest using the formula: Simple Interest = (principal * rate * time) / 100.
+  Print the calculated Simple Interest value.
+
+  

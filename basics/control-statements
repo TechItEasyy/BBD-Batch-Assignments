@@ -1,0 +1,11 @@
+1. Write a Java program that takes the marks of a student as input.
+  Based on the marks, calculate and display the grade according to the following criteria:
+  Marks >= 90: Grade A
+  80 <= Marks < 90: Grade B
+  70 <= Marks < 80: Grade C
+  60 <= Marks < 70: Grade D
+  Marks < 60: Grade F
+2. Create a Java program to find maximum of two numbers
+3. Create a Java program to find maximum of three numbers
+4. Create an array to store 10 numbers
+5. Find maximum number from an array having 10 numbers  

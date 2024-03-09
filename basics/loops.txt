@@ -1,0 +1,17 @@
+Assignment 1: Print Even Numbers
+Write a Java program to print all even numbers from 1 to 20 using a for loop.
+
+Assignment 2: Print Odd Numbers
+Write a Java program to print all odd numbers from 1 to 15 using a while loop.
+
+Assignment 3: Calculate Square of Numbers
+Write a Java program to calculate and print the square of numbers from 1 to 10 using a for loop.
+
+Assignment 4: Display Table
+Write a Java program to display the multiplication table of a given number (up to 10) using a for loop. The number should be taken as user input.
+
+Assignment 5: Factorial Calculation
+Write a Java program to calculate the factorial of a given number (less than 10) using a for loop. The number should be taken as user input.
+
+Assignment 6: Reverse String
+Write a Java program to reverse a given string using a for loop.

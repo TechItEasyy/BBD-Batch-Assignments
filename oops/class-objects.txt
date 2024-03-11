@@ -1,0 +1,11 @@
+1. Create a class Vehicle with attributes (vehicleName, engineCapacity, numberOfWheels, gears etc) and behavior (starts(), stops(), moves() etc)
+	->use concept of access specifier for each attributes
+	->use getter and setter to access private attributes
+	->use default and parametric constructors
+	-> create at least 5 objects of different kind of vehicles (car, bike etc)
+2. Find out at least 2 things aroud you and create classes and objects for those.
+
+3. What is difference between class and objects?
+   What are access specifiers?
+   What is constructor?
+   Type of constructors?

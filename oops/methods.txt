@@ -1,0 +1,22 @@
+1. Create Animal class, keep atleast three attributes
+	animalName
+	animalType
+	numberOfLegs
+	
+	and methods (behavior)
+	
+	walks()
+	eats()
+	makesSound()
+	
+	create at least three type of objects
+	
+	cow, dog, cat
+	
+	use getter and setter to set the attributes and print them.
+	
+	
+2. Create methods to add, multiply, subtract, divide two numbers.
+Call the methods and for each operation and print the output in the below format:
+
+[Your Name]: The addition of 10 and 20 is 30

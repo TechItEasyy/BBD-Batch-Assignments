@@ -1,0 +1,16 @@
+1. Create a Parent Class "Vehicle" with attributes (name, numberOdWheels, numberOfGear, numberOfSeats, speedLimit etc) and behaviors/methods (moves, honk etc)
+	->use concept of access specifier(public,private and protected) for each attributes
+	->use getter and setter to access private attributes
+2. Create Children classes Car, Bike, Truck from Vehicle Parent class
+	->Override the attributes and behaviors
+3. Create a Parent class Man and two children classes Sameer and Ramesh with required attributes and behaviors.
+	-> Use concept of Runtime polymorphism to hold Child class objects(Sameer and Ramesh) into Parent(Man) class.
+4. Write a class Multiplication having three overloaded methods:
+	-> multiplyNumbers(a,b)
+	-> multiplyNumbers(a,b,c)
+	-> multiplyNumbers(a,b,c,d)
+5. What is inheritance?
+   What is polymorphism
+   Difference between compile-time and run-time polymorphism
+   What is method overloading
+   What is method overriding

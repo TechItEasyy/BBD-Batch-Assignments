@@ -1,0 +1,20 @@
+Assignment 1: Class and Object
+Define a class Student with attributes name, age, and grade. Create objects of this class and demonstrate how to set and retrieve values for these attributes.
+
+Assignment 2: Encapsulation
+Create a class BankAccount with private attributes accountNumber, balance, and ownerName. Implement methods to deposit money, withdraw money, and check the balance. Ensure proper encapsulation by providing access to these attributes through getter and setter methods.
+
+Assignment 3: Inheritance
+Define a base class Shape with methods calculateArea() and calculatePerimeter(). Create subclasses Circle, Rectangle, and Triangle that inherit from Shape and provide implementations for the methods to calculate area and perimeter for each shape.
+
+Assignment 4: Polymorphism
+Create an interface Animal with a method makeSound(). Implement classes Dog, Cat, and Bird that implement the Animal interface and provide different implementations for the makeSound() method. Demonstrate polymorphism by creating an array of Animal objects and invoking the makeSound() method for each object.
+
+Assignment 5: Abstraction
+Create an abstract class Shape with abstract methods calculateArea() and calculatePerimeter(). Implement subclasses Circle, Rectangle, and Triangle that extend Shape and provide implementations for the abstract methods.
+
+Assignment 6: Composition
+Create classes Engine and Car. Engine should have attributes horsepower and fuelType. Car should have an attribute engine of type Engine. Demonstrate composition by creating objects of Car and setting values for the engine attribute.
+
+Assignment 7: Interface
+Define an interface Resizable with a method resize(int percentage). Implement classes Circle, Rectangle, and Triangle that implement the Resizable interface and provide implementations for the resize() method.

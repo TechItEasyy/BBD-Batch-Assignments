@@ -1,0 +1,5 @@
+1. What is encapsulation?
+2. Write a real-time example of encapsulation
+3. What is abstraction?
+4. Write a real-time example of abstraction
+5. What is interface? why do we need that?

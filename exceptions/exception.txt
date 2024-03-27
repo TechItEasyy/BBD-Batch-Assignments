@@ -1,0 +1,7 @@
+1. Write a code to store and print number 1-100 in an array
+2. Write a code to handle divided by 0 exception
+3. Write a code to handle array out of bond exception
+4. Write a code to read a file and handle file not found exception
+5. What is checked and unchecked exception?
+6. What is user defined exception? give an example.
+7. Difference between error and exception?

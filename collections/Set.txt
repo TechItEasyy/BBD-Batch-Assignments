@@ -1,0 +1,18 @@
+1. Create a set of Strings
+- Adding name of 10 fruits
+- Accessing any fruit from the set
+- Removing one fruit
+- Iterating over set to print fruits
+- Check if a fruit exists in the set
+2. Create Create a class Book with attributes bookName, author and bookId
+(bookId is the attribute to identify book uniquely)
+- Store 20 books in a list
+- Try adding duplicate books
+- Iterate and print all the details of the books
+- Search for a book with name “Java” in the set
+3. Create a project named: Batch_105_Repo
+- Crate a package com.assignment.set
+- Create all classes related to today’s assignments inside this package
+- add/commit all the classes
+- push locally created repository to GitHub
+- add techiteasyy@gmail.com as collaborator

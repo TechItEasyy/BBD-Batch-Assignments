@@ -1,0 +1,8 @@
+Assignment 1: Phone Directory
+Create a phone directory program that uses a HashMap to store names and phone numbers. Implement functionalities to add entries, remove entries, search for a phone number by name, and display all entries in the directory.
+
+Assignment 3: Student Database
+Create a student database program using a HashMap to store student information. Each student record should contain attributes like name, roll number, age, and marks. Implement functionalities to add new students, remove students, search for a student by roll number, and display all student records.
+
+Assignment 6: Book Inventory System
+Develop a book inventory system using a HashMap to store book details like ISBN, title, author, and price. Implement functionalities to add books, remove books, search for a book by ISBN, and display all books in the inventory.

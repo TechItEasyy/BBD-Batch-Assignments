@@ -1,0 +1,39 @@
+1. Create a project in Eclipse: project-[your name] 
+
+   -create a package 
+
+   -create a class AddTowNumber 
+
+   -print sum of two numbers 
+
+2. Initialize the project as git repository 
+
+3. Create a remote repository {with same or different name in github.com} 
+
+4. Push the local repository to remote repository 
+
+  
+
+=========================Using GIT Bash============================================= 
+
+1. Create a branch from the above created repository with name as branch-[your name]-local 
+
+2. Make some changes in AddTowNumber class and commit the changes 
+
+3. Merger the branch you created branch-[your name] to master/main branch 
+
+4. Delete the branch after merge 
+
+  
+
+=========================Using github.com============================================= 
+
+1. Create a branch from the above created repository with name as branch-[your name]-remote 
+
+2. Make some changes in AddTowNumber class and commit the changes 
+
+3. Create a Pull Request (PR) from branch-[your name]-local to master/main branch 
+
+4. Merger the branch 
+
+5. Delete the branch 

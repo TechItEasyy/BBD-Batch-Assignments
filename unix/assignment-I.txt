@@ -1,0 +1,10 @@
+1. Create a directory Batch-105
+2. Check present working directly and go inside Batch-105 directory
+3. Create file YourName.txt and write about yourself into the file
+4. Rename the file you created to YourName-Batch-105.txt
+5. Create an empty file Test.java
+6. Open Test.java using vi command and write Hello Wold program in it and save it.
+7. Create a file test.cpp and delete it
+8. Create a directory test-dir and delete it
+9. Create a copy of test.cpp
+10. Listed out all the directory and files and identify their size, author, date of creation and type

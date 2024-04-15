@@ -1,0 +1,37 @@
+-- DDL
+
+create database batch_107;
+
+use batch_107;
+
+show tables;
+
+create table employee(
+ emp_id int,
+ emp_name varchar(100),
+ salary double
+ );
+ 
+ desc employee;
+ 
+ -- DML
+ 
+ select * from employee;
+ 
+ insert into employee(emp_id,emp_name,salary) values(101,'John',56000);
+ 
+ insert into employee(emp_id,emp_name,salary) values(102,'Johni',70000);
+ 
+ update employee set salary = 60000 where emp_name = 'John';
+ 
+ update employee set salary = 65000 where emp_id = 101;
+ 
+ SET SQL_SAFE_UPDATES = 0;
+ 
+ select emp_name, salary from employee;
+ 
+ select emp_name from employee where salary > 65000;
+ 
+ select * from employee where emp_name = 'John';
+ 
+ -- Error Code: 1054. Unknown column 'name' in 'where clause'

@@ -1,37 +1,14 @@
--- DDL
-
-create database batch_107;
-
-use batch_107;
-
-show tables;
-
-create table employee(
- emp_id int,
- emp_name varchar(100),
- salary double
- );
- 
- desc employee;
- 
- -- DML
- 
- select * from employee;
- 
- insert into employee(emp_id,emp_name,salary) values(101,'John',56000);
- 
- insert into employee(emp_id,emp_name,salary) values(102,'Johni',70000);
- 
- update employee set salary = 60000 where emp_name = 'John';
- 
- update employee set salary = 65000 where emp_id = 101;
- 
- SET SQL_SAFE_UPDATES = 0;
- 
- select emp_name, salary from employee;
- 
- select emp_name from employee where salary > 65000;
- 
- select * from employee where emp_name = 'John';
- 
- -- Error Code: 1054. Unknown column 'name' in 'where clause'
+1. Create Database FaceBook
+2. Create table Account
+	userName - varchar
+	password - varchar
+	age - int
+	height - double
+3. insert 10 rows into Account table with all 4 colum data
+4. insert 2 rows into Account table with only userName and password data
+5. select all the 10 columns from Account table
+6. select userName and height from Account table
+7. delete a colum whose age is 17 years
+8. update one user's password
+9. update one user's age
+10.delete all the colums from Account table

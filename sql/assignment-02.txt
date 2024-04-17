@@ -1,0 +1,52 @@
+1. Give example of 
+	DDL
+	DML
+	DCL
+	TCL
+	DQL 
+2. Create a table Student
+	-rollNumber int not null unique
+	-name varchar
+	-section varchar
+3. Add a column address in the Student table
+4. Modify column rollNumber to double from integer
+5. rename column name to student_name
+6. Create a table Vehicle
+	-vehicle_id int not null primary key
+	-vehicle_type (101->twowheeler, 102->threewheeler, 103->fourwheeler)
+7. Create a table Passenger
+	-passengerId int not null
+	-vehicle_id --this should be foreign key referring to Vehicle->vehicle_id
+	-passengerName
+9. Difference between delete and truncate
+   Difference between drop and delete
+10. Difference between primary key, unique key and foreign key
+
+1. create a table department
+	-dept_id int not null primary key
+	-dept_name varchar
+2. create a table Student
+	-student_id int not null unique
+	-dept_id foreign key(department->dept_id)
+	-student_name not null varchar	
+	-marks double
+3. get the student details having maximum marks
+   get the student details having minimum marks;
+   get count of the student
+   get average marks
+   get summation of all the marks
+   get the student details whose marks is more than 75
+   get the student details whose marks is less than 35
+4. get the student details whose name start from K
+   get the student details whose has aa in their name
+5. get student details in ascending order of marks
+   get student details in descending order of marks
+6. get student details whose marks in (55,65,85)
+   get student details whose marks not in (55,65,85)
+   get student details whose marks between 45 and 55
+7. get count of student from each department
+   get max of marks from each department
+   get average of marks from each department
+9. get count of student from each department having count more than 2
+10. Limit the out of select query to 3
+   

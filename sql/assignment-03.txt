@@ -1,0 +1,15 @@
+1. Create tables Department and Employee:
+	Department
+		-dept_id int
+		-dept_name varchar
+	Employee
+		-emp_id int
+		-dept_id
+		-emp_name
+		-emp_city
+2. Run query for each one of the joins:
+	-inner join
+	-left join
+	-right join
+	-outer join
+3. How can delete chaild table data when deleting data from parent table (primary-foreighn key concept) ?

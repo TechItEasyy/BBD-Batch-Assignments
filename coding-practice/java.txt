@@ -1,0 +1,104 @@
+1. Write a Java program to print "Hello, World!" to the console.
+2. Write a Java program to calculate the sum of two numbers.
+3. Write a Java program to find maximum of two numbers
+4. Write a Java program to find maximum of three numbers
+5. Write a Java program to check if a number is even or odd.
+6. Write a Java program to find the factorial of a given number.
+7. Write a Java program to print the Fibonacci series up to a specified number of terms.
+8. Write a Java program to reverse a string
+9. Write a Java program to check if a string is a palindrome.
+10. Write a Java program to check if a number is a prime number.
+11. Write a Java program to find the largest number in the array [3,4,5,6,7,9,3,2,2,0]
+12. Write a Java program to find the sum of the digits of a given number.
+13. Write a Java program to swap two numbers.
+14. Write a Java program to swap two numbers without using a third variable.
+15. Write a Java program to reverse a given number.
+16. Write a Java program to calculate the power of a number using a loop (eg 2pow3=8)
+17. Write a Java program to count the number of vowels in a given string.
+18. Write a Java program to count the number of consonent in a given string.
+19. Write a Java program to print all the elements of the array
+20. Write a Java program to sum all the elements of the array
+21. Write a Java program to reverse an array.
+22. Write a Java program to find the maximum and minimum elements in an array.
+23. Write a Java program to count the number of vowels and consonants in a string.
+24. Write a Java program to perform a linear search on an array.
+25. Write a Java program to sort an array in ascending order
+26. Write a Java program to sort an array in descending order
+27. Write a Java program to count the frequency of each number in a array.
+28. Write a Java program to count the frequency of each character in a string.
+29. Write a Java program to find the first non-repeated character in a string.
+30. Write a Java program to convert a string to title case. Title case means the first letter of each word is capitalized.
+31. Write a Java program to check if a given substring is present in a string.
+32. Write a Java program to count the number of words in a string.
+33. Write a Java program to reverse each word in a string.
+
+
+
+
+1. Create a class Student with fields name and age. Create an object of the class and print the details.
+2. Create a class Employee with private fields name and salary. Provide public getter and setter methods for these fields.
+3. Create a base class Person with fields name and age, and a derived class Student with an additional field studentId. Demonstrate the use of inheritance.
+4. Create a class Animal with a method makeSound(). Create subclasses Dog and Cat that override makeSound() to provide their specific implementations. Demonstrate polymorphism.
+5. Create an abstract class Shape with an abstract method calculateArea(). Create subclasses Circle and Rectangle that provide implementations for calculateArea().
+6. Create an interface Printable with a method print(). Implement this interface in classes Document and Image.
+7. Create a class Book with a default constructor and a parameterized constructor that initializes the fields title and author. Demonstrate constructor overloading.
+8. Create a class Calculator with overloaded methods add(int a, int b), add(double a, double b), and add(String a, String b).
+9. Create a class MathUtils with a static method square(int number). Demonstrate how to call this method without creating an instance of the class.
+10. Create a class Vehicle with a method move(). Create a subclass Car that overrides the move() method to provide its specific implementation.
+11. Create a base class Person with fields name and age. Create a subclass Employee that adds fields employeeId and department. Create another subclass Manager that adds a field teamSize. Write a method displayDetails() in each class to print the details. Demonstrate creating objects of Person, Employee, and Manager and calling their displayDetails() methods.
+
+12. Create a class BankAccount with private fields accountNumber and balance. Provide public getter and setter methods for these fields. Create a subclass SavingsAccount with an additional field interestRate. Override the toString() method in both classes to return account details. Demonstrate polymorphism by creating a method printAccountDetails(BankAccount account) and passing instances of BankAccount and SavingsAccount to it.
+
+13. Create an abstract class Shape with an abstract method calculateArea(). Create interfaces Drawable and Movable with methods draw() and move(). Create a class Circle that extends Shape and implements Drawable and Movable. Implement the methods in Circle and demonstrate their usage.
+
+14. Create a class MathOperations with overloaded methods add(int a, int b), add(double a, double b), and add(String a, String b). Create a subclass AdvancedMathOperations that overrides the add(int a, int b) method to add three integers. Demonstrate calling the overloaded and overridden methods.
+
+15. Create a class Utility with a static method convertToUpperCase(String str) and an instance method convertToLowerCase(String str). Create another class TextProcessor with a method processText(String str) that uses both methods from Utility. Demonstrate the usage of static and instance methods in processText().
+
+16. Create a class Book with a default constructor and a parameterized constructor to initialize title and author. Create a subclass EBook with an additional field fileSize and provide its constructors. Demonstrate creating objects of Book and EBook using different constructors.
+
+17. Create interfaces Playable and Storable with methods play() and store(). Create a class Audio that implements both interfaces. Implement the methods in Audio and demonstrate how multiple inheritance is achieved using interfaces.
+
+18. Create a class Calculator with a method divide(int a, int b) that throws an ArithmeticException if b is zero. Create a subclass AdvancedCalculator that overrides divide(int a, int b) to catch the exception and print a custom error message. Demonstrate exception handling by calling the divide method with valid and invalid arguments.
+
+
+
+1. Write a Java program to create a List of integers, add some elements to it, and print the elements.
+2. Write a Java program to create a Map of String keys and Integer values, add some key-value pairs to it, and print the keys and values.
+3. Write a Java program to create a List of strings, add some elements, sort them, and print the sorted list.
+4. Write a Java program to create a TreeSet of integers, add some elements, and print the elements to see the natural ordering.
+5. Write a Java program to create a LinkedHashMap of String keys and Double values, add some key-value pairs, and print the entries to see the insertion order.
+6. Write a Java program to create a List of custom objects (e.g., Student with name and grade), add some objects, and sort the list based on grade.
+7. Write a Java program to create a Map with custom keys (e.g., Book with title and author) and integer values (e.g., quantity). Implement the equals and hashCode methods in Book.
+
+8. Write a Java program to create a List of students, where each student has an ID and a name. Then, create a Map from this List where the key is the student ID and the value is the student name.
+
+9. Write a Java program to create a List of Maps, where each Map represents a student and their grades for different subjects.
+10. Write a Java program to create a List of students with their names and grades. Then, group these students by their grades into a Map where the key is the grade and the value is a List of student names.
+
+11. Write a Java program to count the occurrences of each word in a List of strings and store the result in a Map where the key is the word and the value is the count.
+12. Write a Java program to transform a List of strings into a Map where the key is the string and the value is the length of the string.
+13. Write a Java program to create a Map where each key is a category (e.g., "Fruit", "Vegetable") and the value is a List of items in that category. Add some items to the Map and print the Map.
+
+14. Write a Java program to create a List of Employee objects, where each Employee has an ID and a name. Then, create a Map from this List where the key is the employee ID and the value is the employee name.
+
+15. Write a Java program to create a List of Employee objects, where each Employee has an ID and a name. Then, create a Map from this List where the key is the employee ID and the value is the employee name.
+
+16. Write a Java program to create a List of Employee objects with their names and departments. Then, group these employees by their departments into a Map where the key is the department and the value is a List of employee names.
+
+17. Write a Java program to count the occurrences of each Employee based on their department in a List of Employee objects and store the result in a Map where the key is the department and the value is the count.
+
+18. Write a Java program to transform a List of Employee objects into a Map where the key is the employee ID and the value is the employee object.
+19. Write a Java program to create a Map where each key is a department and the value is a List of Employee objects in that department. Add some employees to the Map and print the Map.
+
+20. Cretae invetntory using list,map, object having your resume details.
+  
+
+
+
+
+
+
+
+
+

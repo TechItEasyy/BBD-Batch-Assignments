@@ -1,3 +1,4 @@
+###Section I###
 1. Write a Java program to print "Hello, World!" to the console.
 2. Write a Java program to calculate the sum of two numbers.
 3. Write a Java program to find maximum of two numbers
@@ -33,7 +34,7 @@
 33. Write a Java program to reverse each word in a string.
 
 
-
+###Section II###
 
 1. Create a class Student with fields name and age. Create an object of the class and print the details.
 2. Create a class Employee with private fields name and salary. Provide public getter and setter methods for these fields.
@@ -61,7 +62,7 @@
 
 18. Create a class Calculator with a method divide(int a, int b) that throws an ArithmeticException if b is zero. Create a subclass AdvancedCalculator that overrides divide(int a, int b) to catch the exception and print a custom error message. Demonstrate exception handling by calling the divide method with valid and invalid arguments.
 
-
+###Section III###
 
 1. Write a Java program to create a List of integers, add some elements to it, and print the elements.
 2. Write a Java program to create a Map of String keys and Integer values, add some key-value pairs to it, and print the keys and values.
